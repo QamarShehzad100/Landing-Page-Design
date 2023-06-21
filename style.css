@@ -23,6 +23,7 @@
 .menu-list li a:hover {
 
    color: orange;
+   text-decoration: underline;
 }
 .menu-list {
     position: relative;
@@ -68,7 +69,7 @@
     padding-top: 50px;
     background-color: aqua;
     margin: auto;
-    background-image:url("Images\sld.png");
+    background-image:url("Images/sld.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -1,0 +1,23 @@
+.logo {
+    width:100%;
+    background-color: #004e71;
+}
+
+.logo img {
+    width: 150px;
+    padding: 5px;
+    padding-left: 50px;
+    
+}
+.btn{
+   background-color: orange;
+   color: white;
+   padding: 15px;
+   border-radius: 10px;
+   float: right;
+   margin: 15px 100px 0  0;
+   border-style: none;
+}
+.mid-part {
+    font-family:sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
